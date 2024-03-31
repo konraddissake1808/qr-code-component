@@ -20,7 +20,7 @@ div {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 img {
@@ -29,8 +29,9 @@ img {
     border-radius: 10px;
 }
 .img {
-    height: 350px;
+    height: 305px;
     margin: 0;
+    padding: 22.5px 0;
 }
 
 h2 {
@@ -38,6 +39,7 @@ h2 {
     font-family: Outfit;
     font-size: 700;
     width: 80%;
+    margin: 10px;
 }
 
 p {
@@ -46,6 +48,7 @@ p {
     font-size: 15px;
     color: hsl(220, 15%, 55%);
     width: 80%;
+    margin: 10px 0 32.5px 0;
 }
 
 .notranslate {
